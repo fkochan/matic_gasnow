@@ -1,0 +1,36 @@
+
+
+
+.h5 {
+display: inline;
+}
+
+.avatar {
+width: 1.75rem;
+height: 1.75rem;
+}
+
+.divOuter{
+display:flex;
+text-align:center;
+}
+
+.divInner1, .divInner2, .divInner3 {
+border: 1px solid;
+float:left;
+width:150px;
+height:150px;
+margin-left:3px;
+margin-right:3px;
+}
+
+.divInner1 {
+background-color: green;
+}
+.divInner2 {
+background-color: lightblue;
+}
+.divInner3 {
+background-color: yellow;
+}
+

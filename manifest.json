@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "icons": { 
+    "16": "./static/icon3.png",
+    "48": "./static/icon3.png",
+    "128": "./static/icon3.png" 
+  },
+  "name": "MATIC Gas Station",
+  "description": "This extension reccomends the Gas price (MATIC) to use on Polygon mainnet",
+  "version": "1.0",
+  "content_security_policy": "script-src 'self' https://code.jquery.com/jquery-3.2.1.slim.min.js https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js; object-src 'self'",
+  "browser_action": {
+   "default_icon": "./static/gasstation.png",
+   "default_popup": "index.html"
+  }
+}
+
+/*   "permissions": [
+    "tabs"
+  ], */
