@@ -1,4 +1,4 @@
-Matic Gas Estimator  
+Matic Gas Estimator  - Pending Approval from the Chrome Web Store  
 ```author:``` fkochan
 
 ```Data provided from:``` Polygon & CoinGecko   
