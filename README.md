@@ -15,7 +15,9 @@ Matic Gas Estimator
 ```X```  Search for Txn (linked to Polygonscan)  
 
 ```v2 roadmap:```  
-$ Premium features - can pay in USDC, ETH, MATIC  
-redo in React
+$ Premium features 
+    Multichain support - can pay in USDC, ETH, MATIC  
+    Audio Alert  
+    redo in React  
 
 
