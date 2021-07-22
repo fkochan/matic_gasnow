@@ -1,8 +1,6 @@
-Matic Gas Estimator  - Pending Approval from the Chrome Web Store  
+Matic Gas Estimator  - [Live](https://chrome.google.com/webstore/detail/matic-gas-station/miekildhlhgnodhpbplnicnidfcbhofj) on the Chrome Web Store.
 
 ![](https://i.ibb.co/pnSWq8G/Screen-Shot-2021-07-21-at-12-51-29-PM.png)
-
-
 
 ```author:``` fkochan  
 ```Data provided from:``` Polygon & CoinGecko   
