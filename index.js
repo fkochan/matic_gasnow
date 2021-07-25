@@ -26,8 +26,8 @@ async function GetPrice() {
 }
 
 
-setInterval(GetGas, 50000)
-setInterval(GetPrice, 5000)
+setInterval(GetGas, 5000)
+setInterval(GetPrice, 30000)
 
 
 
