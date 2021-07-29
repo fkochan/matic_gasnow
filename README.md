@@ -1,6 +1,6 @@
 Matic Gas Estimator  - [Live](https://chrome.google.com/webstore/detail/matic-gas-station/miekildhlhgnodhpbplnicnidfcbhofj) on the Chrome Web Store.
 
-![](https://cdn1.bbcode0.com/uploads/2021/7/25/437195aa348e67ef6d7912849133218d-full.png)
+![](https://i.ibb.co/ws5QTG6/Screen-Shot-2021-07-28-at-8-16-31-PM.png)
 
 ```author:``` fkochan  
 ```Data provided from:``` Polygon & CoinGecko   
